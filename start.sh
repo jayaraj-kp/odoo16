@@ -1,1 +1,1 @@
-python3 odoo-bin -c odoo.conf -d odoo16db -i base
+python3 odoo-bin -c odoo.conf -d odoo16db
