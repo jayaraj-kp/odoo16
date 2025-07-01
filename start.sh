@@ -1,1 +1,1 @@
-python3 odoo-bin -c odoo.conf -d postgresql_name1 -i base
+python3 odoo-bin -c odoo.conf 
